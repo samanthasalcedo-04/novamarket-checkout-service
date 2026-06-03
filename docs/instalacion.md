@@ -15,6 +15,7 @@ Esta guía detalla los pasos necesarios para configurar y desplegar de forma seg
 
 ## Validación funcional
 Para verificar que el entorno base está levantado, ejecute el comando `npm run test:init`. El sistema deberia retornar un estado exitoso (200 OK) en el puerto local.
+> Advertencia: la validación no debe considerarse completa si solo se revisa el contenido del archivo. También debe comprobarse que el entorno local permite ejecutar el flujo documentado.
 
 ## Error común que debe evitarse
 No omitir la configuración de las variables de entorno locales, ya que el servicio no iniciará sin los tokens de conexión a la base de datos de pasarela de pagos.
