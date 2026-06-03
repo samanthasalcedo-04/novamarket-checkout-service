@@ -8,3 +8,7 @@ La documentación se encuentra en construcción y debe mantenerse estable en la 
 
 ## Forma de trabajo
 Los cambios deben ser revisables, trazables y fáciles de relacionar con una solicitud del equipo.
+
+## Colaboración externa
+Las personas externas pueden proponer mejoras sin modificar directamente el repositorio principal.
+Toda contribución externa debe ser revisables antes de integrarse.
